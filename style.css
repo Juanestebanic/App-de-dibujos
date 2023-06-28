@@ -1,0 +1,32 @@
+body{
+    background-image:url("fondo.jfif") ;
+    background-size: cover;
+}
+#titulo{
+color:white
+}
+#etiqueta1{
+    color:yellow
+}
+#etiqueta2{
+    color:red
+}
+#Borrar_lienzo{
+background-color: purple;
+color:white
+}
+#boton2{
+background-color: pink;
+}
+.modal-content{
+    width:55%;
+}
+.modal-header{
+    background-color: yellow;
+}
+#DIBUJO{
+    font-size: 100px;
+}
+canvas{
+    margin-top: 70px;
+}
